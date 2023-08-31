@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{13B669BE-BB05-4DDF-9536-439F39A36129}") = "PHP_RGB", "PHP_RGB.phpproj", "{02E3EFCC-B76C-43B6-B44A-07552109790B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{02E3EFCC-B76C-43B6-B44A-07552109790B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{02E3EFCC-B76C-43B6-B44A-07552109790B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{02E3EFCC-B76C-43B6-B44A-07552109790B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{02E3EFCC-B76C-43B6-B44A-07552109790B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {461451F6-F109-4589-8B56-89E643639ED5}
+	EndGlobalSection
+EndGlobal
